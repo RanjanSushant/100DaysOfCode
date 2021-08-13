@@ -6,3 +6,5 @@ For theory only days only this Readme will be updated and for project days new f
 
  ## Days List
  Day1: Github on CLI usng gitbash on windows. this repo was created using what I learnt.
+ 
+ Day2: Learnt CSS Media queries by creating 3 simple projects. Uploaded them in Day2 folder.
